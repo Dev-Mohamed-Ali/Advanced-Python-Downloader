@@ -1,0 +1,6 @@
+pypdl~=1.4.4
+requests~=2.32.3
+bs4~=0.0.2
+beautifulsoup4~=4.12.3
+aiohttp~=3.10.5
+PyQt6~=6.7.1
