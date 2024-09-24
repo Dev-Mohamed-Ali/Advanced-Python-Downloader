@@ -17,8 +17,13 @@ A PyQt6-based GUI application for managing and executing multiple file downloads
 
 - Python 3.x
 - PyQt6
-- aiohttp
 - pypdl
+
+## Screenshots
+### DAKR THEME
+![My Screenshot](./images/s1.png)
+### BLUE THEME
+![My Screenshot](./images/s2.png)
 
 ## Main Components
 
